@@ -422,7 +422,7 @@ function liffOpenWindow(){
 		$("#modalAlert").modal('show')
 	} else {
 		liff.openWindow({
-	        url: 'https://liff.line.me/1655312084-8mRw4Y6Y',
+	        url: 'https://liff.line.me/1655312084-g6E6P0D0',
 	        external: true
 	    })
 	}
